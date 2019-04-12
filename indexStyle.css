@@ -7,7 +7,7 @@ body {
 }
 
 .main {
-    margin-top: 20px;
+    margin-top: 5px;
     background-color: rgba(255, 255, 255, 0.7);
 }
 
@@ -65,7 +65,7 @@ table {
 
 td, th {
     border: 1px solid #dddddd;
-    text-align: left;
+    text-align:left;
     padding: 5px;
     text-align:center;
 }
@@ -81,6 +81,7 @@ tr:nth-child(3) {
 
 tr:nth-child(1) {
     background-color: #84bfff;
+    text-align: center;
 }
 
 div .mapouter {
@@ -140,7 +141,7 @@ div.pic img {
 }
 
 .container header img {
-    height: 120px;
+    height: 130px;
     width: 100%;
 }
 
